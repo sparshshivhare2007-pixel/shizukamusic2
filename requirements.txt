@@ -10,5 +10,5 @@ py-tgcalls==2.1.0
 python-dotenv==1.0.1
 tgcrypto==1.2.5
 youtube-search-python
-yt-dlp==2025.1.12
+yt-dlp>=2024.04.09
 https://github.com/adityahalder/pyrogram/archive/master.zip
