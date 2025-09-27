@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=𝐑𝐈𝐒𝐇𝐔+𝗠𝗨𝗦𝗜𝗖+𝗕𝗢𝗧+𝗕𝗬+𝐑𝐈𝐒𝐇𝐔+𝗧𝗘𝗔𝗠">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=SHIZUKA+𝗠𝗨𝗦𝗜𝗖+𝗕𝗢𝗧+𝗕𝗬+SHIZUKA+𝗧𝗘𝗔𝗠">
 
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RishuBot&repo=RISHUMUSIC&theme=flag-india)
